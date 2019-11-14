@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="setting_menu">Settings</string>
+    <string name="NoInternet">No Internet Connection</string>
+    <string name="settings_title">Earthquake Search Settings</string>
+    <string name="setting_min_mag_label">Minimum Magnitude</string>
+    <string name="setting_min_mag_key" translatable="false">min_magnitude</string>
+    <string name="setting_min_magnitude_default" translatable="false">5</string>
+    <string name="setting_max_mag_label">Maximum Magnitude</string>
+    <string name="setting_max_mag_key" translatable="false">max_magnitude</string>
+    <string name="setting_max_magnitude_default" translatable="false">9</string>
+    <string name="setting_order_by_label">Order By</string>
+    <string name="setting_order_by_key" translatable="false">orderby</string>
+    <string name="setting_order_by_magnitude_value" translatable="false">magnitude</string>
+    <string name="setting_order_by_magnitude_label">Magnitude Ascending</string>
+    <string name="setting_order_by_magnitude_asc_value" translatable="false">magnitude-asc</string>
+    <string name="setting_order_by_magnitude_asc_label">Magnitude Descending</string>
+    <string name="setting_order_by_most_recent_label">Most Recent First</string>
+    <string name="setting_order_by_most_recent_value" translatable="false">time</string>
+    <string name="setting_order_by_most_recent_asc_label">Most Recent Last</string>
+    <string name="setting_order_by_most_recent_asc_value" translatable="false">time-asc</string>
+    <string name="setting_order_by_default" translatable="false">@string/setting_order_by_most_recent_value</string>
+    <string name="setting_limit_label">Limit on number of Earthquakes</string>
+    <string name="setting_limit_key" translatable="false">Limit</string>
+    <string name="setting_limit_default" translatable="false">50</string>
+    <string name="setting_start_time_label">Start Date</string>
+    <string name="setting_start_time_key" translatable="false">start_time</string>
+    <string name="setting_start_time_default" translatable="false">2019-08-15</string>
+    <string name="setting_end_time_label">End Date</string>
+    <string name="setting_end_time_default" translatable="false">2019-10-01</string>
+    <string name="setting_end_time_key" translatable="false">end_time</string>
+</resources>
